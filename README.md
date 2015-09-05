@@ -1,3 +1,3 @@
 # chainmail
 
-![alt tag](https://raw.github.com/mjmdavis/master/mail.png)
+![alt tag](https://raw.githubusercontent.com/mjmdavis/mail/master/mail.png)
